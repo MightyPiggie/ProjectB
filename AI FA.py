@@ -11,7 +11,12 @@ def first_game():
 
 def sort_data():
     data = open_file()
-    return(sorted(data, key=lambda x: x["name"], reverse=True))
-
+    games = (sorted(data, key=lambda x: x["positive_ratings"], reverse=False))
+    i = -10
+    x = []
+    while i<0:
+        x.append(games[i])
+        i += 1
+    return x
 
 print(sort_data())
