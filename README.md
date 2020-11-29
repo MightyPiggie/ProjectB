@@ -1,9 +1,10 @@
-Naam			Studentennummer			Username
-Daan			1777127				      MightyPiggie	
-Kiro			1783695				      KGligorov00
-Jair			1784195				      Jairongakwie
-Jalen			1766837				      Jlandbrug	
-Nasser		1778278				      SharifiN
+| Baan          | Studentennummer | Username      |
+|:-------------:|:---------------:|:-------------:|
+| Daan          | 1777127         | MightyPiggie  |
+| Kiro          | 1783695         | Gligorov00    |
+| Jair          | 1784195         | Jairongakwie  |
+| Jalen         | 1766837         | Jlandbrug	    |
+| Nasser        | 1778278         | SharifiN      |
 
 
 Doel van project:
