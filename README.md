@@ -1,4 +1,4 @@
-| Baan          | Studentennummer | Username      |
+| Naan          | Studentennummer | Username      |
 |:-------------:|:---------------:|:-------------:|
 | Daan          | 1777127         | MightyPiggie  |
 | Kiro          | 1783695         | Gligorov00    |
